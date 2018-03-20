@@ -39,5 +39,5 @@ dependencies {
     implementation 'com.facebook.stetho:stetho-okhttp3:1.5.0'
 }
 
-//tem que estar no final, senão não funciona o push
+
 apply plugin: 'com.google.gms.google-services'

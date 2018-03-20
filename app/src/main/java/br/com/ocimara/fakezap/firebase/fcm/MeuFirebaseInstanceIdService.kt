@@ -1,7 +1,5 @@
 package br.com.ocimara.fakezap.firebase.fcm
-
 import com.google.firebase.iid.FirebaseInstanceIdService
-import android.content.ContentValues.TAG
 import com.google.firebase.iid.FirebaseInstanceId
 import com.orhanobut.hawk.Hawk
 
