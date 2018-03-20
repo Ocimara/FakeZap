@@ -7,6 +7,7 @@ import com.orhanobut.hawk.NoEncryption
 
 /**
  * Created by logonrm on 19/03/2018.
+ *
  */
 class MeuApp : Application(){
     override fun onCreate() {
